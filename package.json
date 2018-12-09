@@ -1,6 +1,7 @@
 {
   "private": true,
   "version": "2.1.1-fixed",
+  "name": "react-scripts",
   "workspaces": [
     "packages/*"
   ],
